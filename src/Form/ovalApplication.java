@@ -9,6 +9,7 @@ public class ovalApplication {
 		
 		of.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		of.setVisible(true);
+		//1
 
 	}
 
